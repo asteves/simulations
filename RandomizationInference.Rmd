@@ -21,7 +21,7 @@ library(ggplot2)
 library(readr)
 ```
 
-To understand how the public perceives Donald Trump's tweets, YouGov [tweetindex.yougov.com](runs a poll) that asks a representative sample of the US population to rate each tweet the day they are published. Trump's writing style when tweeting is often hyperbolic, with certain words in all-caps and extending out others ("sooooo") for effect. 
+To understand how the public perceives Donald Trump's tweets, YouGov [runs a poll](https://tweetindex.yougov.com) that asks a representative sample of the US population to rate each tweet the day they are published. Trump's writing style when tweeting is often hyperbolic, with certain words in all-caps and extending out others ("sooooo") for effect. 
 
 To show how randomization inference works, let's take 20 of Trump's recent tweets, and suppose that Trump randomly inserts hyperbolic phrases into his tweets. The trump.csv dataset has twenty tweets with scores for both Democrats and Republicans. 
 

@@ -1,7 +1,6 @@
 ---
 title: "Randomization Inference"
 author: "Alex Stephenson"
-date: "2/11/2018"
 output:
   pdf_document: default
   html_document: default
